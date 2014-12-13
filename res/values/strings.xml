@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidUPMC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="answers">Answer: </string>
+    <string name="Question1">1) What is your name?</string>
+    <string name="Question2">2) How old are you?</string>
+    <string name="Question3">3) Are you married?</string>
+    <string name="Question4">4) Where are you?</string>
+    <string name="PageTitle">Please answer below questions: </string>
+    <string name="title_activity_success">SuccessActivity</string>
+    <string name="CancelErrorBtn">OK</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+
+</resources>
